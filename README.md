@@ -1,2 +1,2 @@
-# Gruppe-11-v2
+# Gruppe-11
 SSD - Group 11
